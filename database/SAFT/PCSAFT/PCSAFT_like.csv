@@ -1,6 +1,7 @@
 Clapeyron Database File,,,,,,,,
 PCSAFT Like Parameters,,,,,,,,
 species,DIPPR Number,Mw,segment,sigma,epsilon,n_H,n_e,source
+polyethylene,,10e30,0.0263, 3.9876, 246.0,0,0,
 methane,1,16.04,1.0,3.7039,150.03,0,0,10.1021/ie0003887
 ethane,2,30.07,1.6069,3.5206,191.42,0,0,10.1021/ie0003887
 propane~|~n-propane,3,44.1,2.002,3.6184,208.11,0,0,10.1021/ie0003887
